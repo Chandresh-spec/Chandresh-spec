@@ -126,9 +126,6 @@ Agentic AI
        ↓
 Production AI Systems
 
-
-## 📈 GitHub Stats
-
 ## 📊 GitHub Stats
 
 <p align="center">
